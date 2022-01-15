@@ -1,7 +1,7 @@
 # reactjs
-This is a reacts learning 
+# MY very first REPO
 
-This is a new edit from my localhost computer.
+##This is some of the steps using terminal
 
 code .  // open the directory
 
