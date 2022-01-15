@@ -19,4 +19,8 @@ git log --oneline   // see where the code is at
 
 git push origin main
 
-dd
+git pull origin main
+
+git rebase --abort  // reverting when you get scared
+
+git pull origin main --rebase
