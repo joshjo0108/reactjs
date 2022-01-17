@@ -1,0 +1,12 @@
+git branch -b <branch name goes in here>        // CREATE A BRANCH
+git branch      // to check the current branch
+git status
+git add "New file from 2021 branch.txt" // add this new file to the new branch
+git commit -m "New branch commit"       // comment added
+git push origin <2021-new-branch-name>    // name of the branch
+// AFTER FROM HERE YOU CAN DO PULL REQUEST
+
+
+// TOGGLE BETWEEN THE TWO BRANCHES
+git checkout main     // GO BACK TO master
+git checkout <2021-new-branch-name> // GO TO THE NEW BRANCH
